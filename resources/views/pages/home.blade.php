@@ -75,7 +75,7 @@
                         <div class="card px-0 text-center">
                             <img class=" card-img-top mb-3 w-100" src="{{asset('/images/man.jpg')}}" alt="">
                             <h5>Danny Bailey</h5>
-                            <p class="text-muted mb-4">CEO &amp; Founder</p>
+                            <p class="text-muted mb-4">CTO &amp; Founder</p>
                         </div>
                     </div>
                 </div>
@@ -143,3 +143,5 @@
         </footer>
 
 @endsection
+
+
