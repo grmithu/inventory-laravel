@@ -92,7 +92,7 @@
                         <h4 class="fw-bold">Address</h4>
                         <p class="text-muted mb-5">1686 Geraldine Lane New York, NY 10013</p>
                         <h4 class="fw-bold">Contact Us</h4>
-                        <p class="text-muted mb-1">hello@wireframes.org</p>
+                        <p class="text-muted mb-1">info@wireframes.org</p>
                         <p class="text-muted mb-0">+ 7-843-672-431</p>
                     </div>
                     <div class="col-12 col-lg-6 offset-lg-1">
