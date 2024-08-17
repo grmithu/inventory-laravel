@@ -7,10 +7,7 @@
                     <hr/>
                     <div class="container-fluid m-0 p-0">
                         <div class="row m-0 p-0">
-                            <div class="col-md-4 p-2">
-                                <label>Email Address</label>
-                                <input id="email" placeholder="User Email" class="form-control" type="email"/>
-                            </div>
+
                             <div class="col-md-4 p-2">
                                 <label>First Name</label>
                                 <input id="firstName" placeholder="First Name" class="form-control" type="text"/>
@@ -19,6 +16,11 @@
                                 <label>Last Name</label>
                                 <input id="lastName" placeholder="Last Name" class="form-control" type="text"/>
                             </div>
+                            <div class="col-md-4 p-2">
+                                <label>Email Address</label>
+                                <input id="email" placeholder="User Email" class="form-control" type="email"/>
+                            </div>
+
                             <div class="col-md-4 p-2">
                                 <label>Mobile Number</label>
                                 <input id="mobile" placeholder="Mobile" class="form-control" type="mobile"/>

@@ -17,7 +17,7 @@
                     <li class="nav-item me-4"><a class="nav-link" href="#">Services</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Testimonials</a></li>
                 </ul>
-                <div><a class="btn mt-3 bg-gradient-primary" href="{{url('/userLogin')}}">Start Sale</a></div>
+                <div><a class="btn mt-3 bg-gradient-primary" href="{{url('/userLogin')}}">Login</a></div>
             </div>
         </div>
     </nav>
@@ -29,7 +29,7 @@
                     <div class="col-12 col-md-10 col-lg-5 mb-5 mb-lg-0">
                         <h2 class=" fw-bold mb-3">Elevate Your Sales Game with Our Powerful POS Application! </h2>
                         <p class="lead text-muted mb-4">Discover streamlined transactions, real-time inventory management, and actionable insights in one intuitive POS app.</p>
-                        <div class="d-flex flex-wrap"><a class="btn bg-gradient-primary me-2 mb-2 mb-sm-0" href="{{url('/userLogin')}}">Start Sale</a>
+                        <div class="d-flex flex-wrap"><a class="btn bg-gradient-primary me-2 mb-2 mb-sm-0" href="{{url('/userLogin')}}">Sale Now</a>
                             <a class="btn bg-gradient-primary mb-2 mb-sm-0" href="{{url('/userLogin')}}">Login</a></div>
                     </div>
                     <div class="col-12 col-lg-6 offset-lg-1">
@@ -53,29 +53,29 @@
                     <div class="col-12 col-md-6 col-lg-3 p-3">
                         <div class="card px-0 text-center">
                             <img class=" card-img-top mb-3 w-100" src="{{asset('/images/man.jpg')}}" alt="">
-                            <h5>Danny Bailey</h5>
+                            <h5>Sarjis Ahmed</h5>
                             <p class="text-muted mb-4">CEO &amp; Founder</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 p-3">
                         <div class="card px-0 text-center">
                             <img class=" card-img-top mb-3 w-100" src="{{asset('/images/man.jpg')}}" alt="">
-                            <h5>Danny Bailey</h5>
-                            <p class="text-muted mb-4">CEO &amp; Founder</p>
+                            <h5>Rakib Hasan</h5>
+                            <p class="text-muted mb-4">CTO </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 p-3">
                         <div class="card px-0 text-center">
                             <img class=" card-img-top mb-3 w-100" src="{{asset('/images/man.jpg')}}" alt="">
-                            <h5>Danny Bailey</h5>
-                            <p class="text-muted mb-4">CEO &amp; Founder</p>
+                            <h5>Saiful Azad</h5>
+                            <p class="text-muted mb-4">Devloper</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 p-3">
                         <div class="card px-0 text-center">
                             <img class=" card-img-top mb-3 w-100" src="{{asset('/images/man.jpg')}}" alt="">
-                            <h5>Danny Bailey</h5>
-                            <p class="text-muted mb-4">CTO &amp; Founder</p>
+                            <h5>Rasel Rabbi</h5>
+                            <p class="text-muted mb-4">Product Manager</p>
                         </div>
                     </div>
                 </div>
@@ -90,10 +90,10 @@
                     <div class="col-12 col-lg-5 mb-5 mb-lg-0">
                         <h2 class="fw-bold mb-5">Reach Out to Us: Let's Connect and Explore Opportunities Together</h2>
                         <h4 class="fw-bold">Address</h4>
-                        <p class="text-muted mb-5">1686 Geraldine Lane New York, NY 10013</p>
+                        <p class="text-muted mb-5">Rokeya Saroni, Mirpur, Dhaka-1216</p>
                         <h4 class="fw-bold">Contact Us</h4>
-                        <p class="text-muted mb-1">info@wireframes.org</p>
-                        <p class="text-muted mb-0">+ 7-843-672-431</p>
+                        <p class="text-muted mb-1">info@gmail.com</p>
+                        <p class="text-muted mb-0">+8801907-840170</p>
                     </div>
                     <div class="col-12 col-lg-6 offset-lg-1">
                         <form action="#">
